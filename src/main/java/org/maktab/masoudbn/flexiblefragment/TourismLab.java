@@ -62,4 +62,8 @@ public class TourismLab {
         }
         return null;
     }
+	
+	public int setNumber() {
+		return 1;
+	}
 }
