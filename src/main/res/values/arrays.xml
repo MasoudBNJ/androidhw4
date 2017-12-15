@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="tourism_place_titles">
+    <item>@string/title1</item>
+    <item>@string/title2</item>
+    <item>@string/title3</item>
+    <item>@string/title4</item>
+    <item>@string/title5</item>
+    <item>@string/title6</item>
+    <item>@string/title7</item>
+    <item>@string/title8</item>
+    <item>@string/title9</item>
+    <item>@string/title10</item>
+    <item>@string/title11</item>
+    <item>@string/title12</item>
+    <item>@string/title13</item>
+    <item>@string/title14</item>
+    <item>@string/title15</item>
+    <item>@string/title16</item>
+    <item>@string/title17</item>
+    <item>@string/title18</item>
+    <item>@string/title19</item>
+    <item>@string/title20</item>
+    <item>@string/title21</item>
+    <item>@string/title22</item>
+    <item>@string/title23</item>
+    <item>@string/title24</item>
+    <item>@string/title25</item>
+    <item>@string/title26</item>
+    <item>@string/title27</item>
+    <item>@string/title28</item>
+</string-array>
+<string-array name="tourism_place_addresses">
+<item>@string/address1</item>
+<item>@string/address2</item>
+<item>@string/address3</item>
+<item>@string/address4</item>
+<item>@string/address5</item>
+<item>@string/address6</item>
+<item>@string/address7</item>
+<item>@string/address8</item>
+<item>@string/address9</item>
+<item>@string/address10</item>
+<item>@string/address11</item>
+<item>@string/address12</item>
+<item>@string/address13</item>
+<item>@string/address14</item>
+<item>@string/address15</item>
+<item>@string/address16</item>
+<item>@string/address17</item>
+<item>@string/address18</item>
+<item>@string/address19</item>
+<item>@string/address20</item>
+<item>@string/address21</item>
+<item>@string/address22</item>
+<item>@string/address23</item>
+<item>@string/address24</item>
+<item>@string/address25</item>
+<item>@string/address26</item>
+<item>@string/address27</item>
+<item>@string/address28</item>
+</string-array>
+<string-array name="tourism_place_details">
+<item>@string/detail1</item>
+<item>@string/detail2</item>
+<item>@string/detail3</item>
+<item>@string/detail4</item>
+<item>@string/detail5</item>
+<item>@string/detail6</item>
+<item>@string/detail7</item>
+<item>@string/detail8</item>
+<item>@string/detail9</item>
+<item>@string/detail10</item>
+<item>@string/detail11</item>
+<item>@string/detail12</item>
+<item>@string/detail13</item>
+<item>@string/detail14</item>
+<item>@string/detail15</item>
+<item>@string/detail16</item>
+<item>@string/detail17</item>
+<item>@string/detail18</item>
+<item>@string/detail19</item>
+<item>@string/detail20</item>
+<item>@string/detail21</item>
+<item>@string/detail22</item>
+<item>@string/detail23</item>
+<item>@string/detail24</item>
+<item>@string/detail25</item>
+<item>@string/detail26</item>
+<item>@string/detail27</item>
+<item>@string/detail28</item>
+</string-array>
+</resources>
